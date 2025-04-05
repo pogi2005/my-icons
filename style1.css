@@ -1,0 +1,39 @@
+.frame {
+    fill: red;
+}
+.panget {
+    fill: aqua;
+}
+.a {
+    fill:blueviolet;
+}
+.b {
+    fill: rgb(19, 214, 117);
+}
+.c {
+    fill: rgb(210, 245, 15);
+}
+.d {
+    fill: rgb(245, 21, 196);
+}
+.e {
+    fill: rgb(19, 238, 165);
+}
+.f {
+    fill: rgb(204, 52, 97);
+}
+.g {
+    fill: rgb(150, 26, 129);
+}
+.h {
+    fill: rgb(7, 77, 77);
+}
+.i {
+    fill: rgb(245, 170, 9);
+}
+.j {
+    fill: rgb(117, 81, 51);
+}
+body {
+    place-items: center;
+}
